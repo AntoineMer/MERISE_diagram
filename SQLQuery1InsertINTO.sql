@@ -5,4 +5,4 @@ INSERT INTO dbo.TYPE_STAGE
 VALUES
 ('STAGE INFORMATIQUE 02');
 
---Exemple d'insertion de donnée dans une table
+--Exemple d'insertion de données dans une table
